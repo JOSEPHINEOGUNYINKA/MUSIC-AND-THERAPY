@@ -1,10 +1,11 @@
 # MUSIC AND THERAPY
 
-![](music.jpg)
+![](MUSIC9.jpg)
 ---
-**DASHBOARD:** 
+                                      
 
 ![](MUSIC.png)
+---
 
 ## DESCRIPTION
 Music they say is a food for the soul, this is fast becoming a fact as research says people that listen to music recover faster from stress than those who don’t. Music is therapeutic due to its impact on mental health and general wellbeing. 
