@@ -50,7 +50,7 @@ During the data cleaning, age band was created using conditional columns and sli
 4.	41 and above: Senior Adults
 
 ## CHART DESCRIPTION/ INSIGHT GENERATED
-1.	Average depression, insomnia and OCD compared with individual favorite genre: This shows that in the average people that listen to gospel experience less depression, insomnia and OCD compared to others especially those that listen to Lofi kind of music.
+1.	Average depression, insomnia and OCD compared with individual favorite genre: The rate of Depression, Insomnia and OCD with respect to the kind of music respondents listen to.
 2.	Average age by genre: This shows that more people listen to gospel than any other genre of music.
 3.	Most used streaming service by recipients: This chart shows that the most used streaming service across the chart is Spotify followed by YouTube music but when filtered by the adult filter, it shows that majority of the adults don’t used any streaming service when listening to music.
 4.	% of music effect: this is shows close relationship in the music effect.  Over 100 we have 30.5% worsen cases, 33.3% improved cases and 36.2% had no effect. 
