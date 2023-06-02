@@ -1,6 +1,6 @@
 # MUSIC AND THERAPY
 
-![](MUSIC9.jpg)
+![](MUSICLOGO.jpg)
 ---
                                       
 
